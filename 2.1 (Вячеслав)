@@ -1,0 +1,1 @@
+function testIf(name) {var x; name = Вячеслав? 'Привет, Вячеслав' : 'Нет такого имени'; return x}
