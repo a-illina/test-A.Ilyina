@@ -1,5 +1,5 @@
 function testIf (x) {
   var x;
-  if (x > '7') 
-  return 'Привет'
+  if (x > '7') ;
+  return 'Привет';
   }
