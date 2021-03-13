@@ -1,0 +1,9 @@
+function testIf(name) {
+  var name;
+  if (name = 'Вячеслав'); {
+    x = 'Привет, Вячеслав'
+  } else; {
+  x = 'Нет такого имени';
+  }
+  return x
+  }
